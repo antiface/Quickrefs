@@ -1,6 +1,6 @@
 # Quickrefs
 
-(Coming soong!)
+(Coming soon!)
 
 ## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
 
