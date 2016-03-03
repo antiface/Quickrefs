@@ -1,3 +1,8 @@
+### ABSTRACT
+* The main idea here is to look at a sample of simple note-taking apps for the command line written in Python;
+* That is, we will be looking at THE NOTE-TAKING GENRE OF APPLICATION and also at PYTHONIC PROGRAMMING PARADIGMS;
+* First, we will start with a list of the apps that we will be looking at. Afterwards, as we go through them, we will be taking notes on note-taking apps in Pythonic idioms.
+
 ### NOTE APPS - PYTHON
 * [dwwkelly/note: A fast, command line oriented note taking application with encrypted backups](https://github.com/dwwkelly/note)
 * [Ezran/Note: Command line note app](https://github.com/Ezran/Note)
