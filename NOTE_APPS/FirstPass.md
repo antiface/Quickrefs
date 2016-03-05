@@ -26,3 +26,11 @@
 * [technopoetic/tiro: Tiro is a command line note taking application written in python](https://github.com/technopoetic/tiro)
 * [kesfrance/snippets-app: A command line note taking app built with python, SQL and postgresql](https://github.com/kesfrance/snippets-app)
 * [cgallemore/logit: Sometimes you just need to jot a note down, and since I'm at my command line the majority of the time, this does just that.](https://github.com/cgallemore/logit)
+
+### CRITIQUING SOFTWARE GENRE - NOTE-TAKING APPS - COMMAND-LINE INTERFACE - PYTHON
+## No. 1.0 - Ezran/Note
+* [Ezran/Note: Command line note app](https://github.com/Ezran/Note)
+* COMMENTS:
+    * The app is simple enough, besides the README.md file, it consists of two programs, one in Python (main.py), the other an executable (note);
+        * Ezran/Note/note: Executable File  87 lines (73 sloc)  2.63 KB;
+        * Ezran/Note/main.py: 85 lines (72 sloc)  2.63 KB;
