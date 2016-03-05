@@ -5,6 +5,13 @@
 * Readability and use of comments + documentation will be taken into account;
 * First we introduce the list of 20 Simplest Note-Taking Apps in the Python language (taken from Github repositories).
 
+### RATIONALE - IDIOMATIC & STYLISTIC CODE CRITIQUE
+* The basic idea here with these series of critiques of samples of code in various app genres is to try and see how actual coders are writing given apps within genres;
+* That is, it is our intention to a) look at actual code written "in the field" (public Github repositories) and b) to see how the different apps within a single genre differ in Personal Style, Use of Idioms, Conventions, Paradigms, and the like;
+* The ulterior motive, though, is to establish a practice of what might be called "code review" that is far more formal and "literate" than mere code review for purposes of correctness and security and so forth;
+* That is, the underlying idea is to treat code as text, as a work of literature, and then to use all of the methods of literary analysis, critical analysis, and philosophical critque and so forth that one would use for, say, poetic texts;
+* Lastly, we want to emphasize the idea of APPLICATION GENRES as well as STYLE in code-writing as form of writing or "language art".
+
 ### 20 SIMPLEST OF THE LOT
 * [Ezran/Note: Command line note app](https://github.com/Ezran/Note)
 * [icymist/note: Script to take notes from command line](https://github.com/icymist/note)
