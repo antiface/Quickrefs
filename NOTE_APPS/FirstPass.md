@@ -27,10 +27,16 @@
 * [kesfrance/snippets-app: A command line note taking app built with python, SQL and postgresql](https://github.com/kesfrance/snippets-app)
 * [cgallemore/logit: Sometimes you just need to jot a note down, and since I'm at my command line the majority of the time, this does just that.](https://github.com/cgallemore/logit)
 
-### CRITIQUING SOFTWARE GENRE - NOTE-TAKING APPS - COMMAND-LINE INTERFACE - PYTHON
+### CRITIQUING SOFTWARE GENRES - NOTE-TAKING APPS - COMMAND-LINE INTERFACE - PYTHON
 ## No. 1.0 - Ezran/Note
 * [Ezran/Note: Command line note app](https://github.com/Ezran/Note)
 * COMMENTS:
     * The app is simple enough, besides the README.md file, it consists of two programs, one in Python (main.py), the other an executable (note);
         * Ezran/Note/note: Executable File  87 lines (73 sloc)  2.63 KB;
         * Ezran/Note/main.py: 85 lines (72 sloc)  2.63 KB;
+   * Without getting into any details on this, suffice to say that the two files mentioned previously are virtually exactly the same. For various reasons, we will be focusing on the "main.py" file, which is the Python program in question;
+   * In the opening lines, three separate modules are imported: the argparse module, the sqlite3 module, and from os.path, expanduser is imported;
+   * Essentially, after that we have the body of our program;
+   * What we see are a few elements. First of all, we have code that will be dealing with the "os" part as well as the "sqlite3" part of the equation (sqlite3 = database);
+   * Otherwise, what we have are relatively simple functions, called: "add", "print_list", and "delete";
+   * As we can see, this note-taking app is very simple. We open up a connection to a database and define basic functions, and then add or delete "notes" to and from the database;
